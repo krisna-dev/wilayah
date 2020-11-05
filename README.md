@@ -2,7 +2,8 @@
 
 ![N|KRISNA](https://app.dit.krisna.men/public/images/logo.png)
 
-*Repository* ini adalah kanal distribusi referensi wilayah Republik Indonesia berbasis sumber terbuka *(open-source)* yang digunakan pada aplikasi perencanaan: Kolaborasi Perencanaan dan Informasi Kinerja Anggaran **(KRISNA)** Kementerian PPN/Kemenkeu/KemenpanRB/Kemendagri.
+
+*Repository* ini adalah kanal distribusi referensi wilayah Republik Indonesia berbasis sumber terbuka *(open-source)* yang digunakan pada aplikasi: Kolaborasi Perencanaan dan Informasi Kinerja Anggaran **(KRISNA)** Kementerian PPN/Kemenkeu/KemenpanRB/Kemendagri.
 
 Pembaharuan data akibat dari pemekaran/penggabungan daerah/wilayah akan dilakukan berkala.
 
