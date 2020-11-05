@@ -14,3 +14,9 @@ Contoh dataset Provinsi-Kabupaten/Kota:
 |65|Provinsi Kalimantan Utara|6571|Kota Tarakan
 |... |... |... |...
 
+Contoh dataset Provinsi-Kabupaten/Kota-Kecamatan:
+| kode_prov | nama_provinsi | kode_kabkota | nama_kabkota|kode_kecamatan|nama_kecamatan 
+|---|---|---|---|---
+|33|Provinsi Jawa Tengah|3309|Kab. Boyolali|3309.060|MOJOSONGO
+|65|Provinsi Kalimantan Utara|6571|Kota Tarakan|6501.090|MALINAU SELATAN
+|... |... |... |...
