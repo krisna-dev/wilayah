@@ -5,6 +5,8 @@
 
 *Repository* ini adalah kanal distribusi referensi wilayah Republik Indonesia berbasis sumber terbuka *(open-source)* yang digunakan pada aplikasi: Kolaborasi Perencanaan dan Informasi Kinerja Anggaran **(KRISNA)** Kementerian PPN/Kemenkeu/KemenpanRB/Kemendagri.
 
+Saat ini ref wilayah dipakai sebagai kodefikasi lokus pada penyusunan APBN di dalam aplikasi KRISNA dan SAKTI.
+
 Pembaharuan data akibat dari pemekaran/penggabungan daerah/wilayah akan dilakukan berkala.
 
 Contoh dataset Provinsi-Kabupaten/Kota:
